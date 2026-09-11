@@ -1,5 +1,5 @@
 import React from 'react';
-import './MyComponent.css';
+import './MyComponent.css'; //import the CSS file
 
 const MyComponent: React.FC = () => {
     return (
